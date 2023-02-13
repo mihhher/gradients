@@ -6,4 +6,4 @@ simple, but quite beautiful javascript exercise.
 
 enjoy! ;p
 
-https://mihhher.github.io/gradients/
+[~|~|hunt your gradient|~|~](https://mihhher.github.io/gradients/gradient_index.html)
