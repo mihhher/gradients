@@ -1,2 +1,7 @@
 # gradients
-hunt your gradient
+
+~|~|hunt your gradient|~|~
+
+simple, but quite beautiful javascript exercise.
+
+enjoy! ;p
