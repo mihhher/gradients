@@ -14,6 +14,6 @@ function setGrad () {
 
 
 
-color1.addEventListerer("input", setGrad());
+//color1.addEventListerer("input", setGrad());
 
-color2.addEventListerer("input", setGrad());
+//color2.addEventListerer("input", setGrad());
